@@ -1,10 +1,10 @@
-package com.tns.AdminService;
+package com.tns.ShopOwner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AdminServiceApplicationTests {
+class ShopOwnerApplicationTests {
 
 	@Test
 	void contextLoads() {
